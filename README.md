@@ -1,8 +1,6 @@
-# Olá, eu sou o Lorenzo 👋  
+# 🧑🏻‍💻 Lorenzo Paludett
 
-🎓 Estudante de **Sistemas de Informação** na AMF  
-💻 Apaixonado por **programação web e mobile**  
-
+Me chamo Lorenzo, tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de informação na AMF, e trabalhando como desenvolvedor de software no TecnoAMF. Sou apaixonada por tecnologia e criar soluções
 ---
 
 ## 🚀 Tecnologias que uso
