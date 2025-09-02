@@ -2,7 +2,6 @@
 
 🎓 Estudante de **Sistemas de Informação** na AMF  
 💻 Apaixonado por **programação web e mobile**  
-⚽ Nas horas vagas jogo futsal (sou ala!)  
 
 ---
 
