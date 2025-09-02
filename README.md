@@ -20,5 +20,5 @@
 ---
 
 ## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/lorenzo-paludett-benedetti-321142361/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/lorenzo-paludett-benedetti-321142361/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lorenzopaludett/)
