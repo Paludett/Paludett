@@ -14,5 +14,3 @@ Me chamo Lorenzo, tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-paludett/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lorenzopaludett/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lorenzopaludettbenedetti@gmail.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paludett&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
