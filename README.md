@@ -1,6 +1,6 @@
 ## 😶‍🌫️ Lorenzo Paludett 
 
-Me chamo Lorenzo, tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na AMF e trabalhando como desenvolvedor de software no TecnoAMF. Sou apaixonado por tecnologia e atividade física.
+Me chamo Lorenzo, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na AMF e trabalhando como desenvolvedor de software no TecnoAMF. Sou apaixonado por tecnologia, criar coisas e atividade física.
 ---
 
 ## 🚀 Tecnologias que uso
